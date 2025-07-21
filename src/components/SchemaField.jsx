@@ -113,7 +113,7 @@ const SchemaField = ({ fieldIndex, nestingLevel = 0, control, register, errors, 
                 type="button"
               >
                 <Plus size={16} className="mr-2" />
-                Add Nested Field
+                Add  Field
               </Button>
             </div>
           )
